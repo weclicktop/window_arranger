@@ -1,0 +1,6 @@
+{
+    "hotkey": "ctrl+alt+i",
+    "exit_hotkey": "ctrl+alt+q",
+    "monitor_1_apps": ["opera", "RD Tabs"],
+    "monitor_2_apps": ["*"]
+} 
