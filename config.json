@@ -1,6 +1,11 @@
 {
     "hotkey": "ctrl+alt+i",
     "exit_hotkey": "ctrl+alt+q",
+    "reload_hotkey": "ctrl+alt+u",
     "monitor_1_apps": ["opera", "RD Tabs"],
-    "monitor_2_apps": ["*"]
+    "monitor_2_apps": ["*"],
+    "hotkey_test_interval": 1800,
+    "log_level": "INFO",
+    "enable_auto_recovery": true,
+    "auto_recovery_timeout": 5.0
 } 
